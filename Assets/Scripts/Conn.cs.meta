@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 73357e565bd16f6448d339478e7bcd6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - painelL: {instanceID: 0}
+  - painelS: {instanceID: 0}
+  - nomeJogador: {instanceID: 0}
+  - nomeSala: {instanceID: 0}
+  - txtNick: {instanceID: 0}
+  - jogador: {fileID: 6974241657863941313, guid: f9f84d2b1c251e349b54952d3be59e88, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

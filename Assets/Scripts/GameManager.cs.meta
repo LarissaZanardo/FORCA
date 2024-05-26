@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79b58c7580fd6d446b3c5ff17cab1481
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - letterPrefab: {instanceID: 0}
+  - letterHolder: {instanceID: 0}
+  - categoryText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
